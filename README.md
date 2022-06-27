@@ -1,1 +1,1 @@
-# Project on FinTech, Environment and Causal Inference
+# PhD Project 1
