@@ -1,1 +1,1 @@
-# FinTech and Causal Inference
+# Project on FinTech, Environment and Causal Inference
